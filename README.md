@@ -2,6 +2,8 @@ HulkApps Back-End Dev Practical Test For Salman Marediya
 
 First Clone this project and import Database and setup all 
 
+Dtaabase File name : hulkapp.sql
+
 Credential Detail :
 HR Login :
 	UserName : hr@gmail.com
