@@ -514,7 +514,7 @@
         <div class="col-lg-6">
 		
 		@if(Session::get('type') == 'employee')
-			Available Balance : 6 Day
+		
             <button type="button" class="btn btn-primary"  data-toggle="modal" data-target="#myModal" style="float: right;margin-bottom: 10px;">Add Leave</button>
 @endif
 		</div>
